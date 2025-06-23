@@ -4,7 +4,7 @@ import optparse
 
 def user_input():
     parse_object=optparse.OptionParser()
-    parse_object.add_option("-i","--interfacee",dest="interface",help="change to interface")
+    parse_object.add_option("-i","--interface",dest="interface",help="change to interface")
     parse_object.add_option("-m","--mac",dest="mac",help="to change mac address")
     return parse_object.parse_args()
 
