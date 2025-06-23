@@ -1,4 +1,4 @@
-# Linux Mac changer
+# 🖥️ Linux Mac changer
 
 
 
@@ -27,7 +27,7 @@ Install my-project with npm
 
 
 ## Note
- - This Only works in linux based machine not windows 
+ - This Only works in linux based machine not windows 👨‍💻
 
 ## Authors
 
